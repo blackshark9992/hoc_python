@@ -1,0 +1,410 @@
+[
+    {
+        "name": "Nguy\u1ec5n V\u0103n A",
+        "age": 30,
+        "address": "H\u00e0 N\u1ed9i",
+        "job": "K\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m",
+        "nguoi_than": [
+            "b\u1ed1",
+            "m\u1eb9",
+            "em g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Tr\u1ea7n Th\u1ecb B",
+        "age": 45,
+        "address": "TP. H\u1ed3 Ch\u00ed Minh",
+        "job": "K\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "L\u00ea V\u0103n C",
+        "age": 25,
+        "address": "\u0110\u00e0 N\u1eb5ng",
+        "job": "K\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m",
+        "nguoi_than": [
+            "b\u1ed1",
+            "m\u1eb9",
+            "anh trai"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ph\u1ea1m Th\u1ecb D",
+        "age": 35,
+        "address": "H\u1ea3i Ph\u00f2ng",
+        "job": "K\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "ch\u00e1u"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "\u0110\u1eb7ng Quang E",
+        "age": 50,
+        "address": "C\u1ea7n Th\u01a1",
+        "job": "K\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Ho\u00e0ng Th\u1ecb F",
+        "age": 28,
+        "address": "Hu\u1ebf",
+        "job": "K\u1ef9 s\u01b0 ph\u1ea7n m\u1ec1m",
+        "nguoi_than": [
+            "b\u1ed1",
+            "m\u1eb9",
+            "ch\u1ecb g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "V\u0169 V\u0103n G",
+        "age": 40,
+        "address": "Qu\u1ea3ng Ninh",
+        "job": "Gi\u00e1o vi\u00ean",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ph\u00f9ng Th\u1ecb H",
+        "age": 55,
+        "address": "Ngh\u1ec7 An",
+        "job": "Gi\u00e1o vi\u00ean",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "B\u00f9i V\u0103n I",
+        "age": 60,
+        "address": "B\u00ecnh \u0110\u1ecbnh",
+        "job": "Gi\u00e1o vi\u00ean",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con trai",
+            "ch\u00e1u"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "\u0110\u1ed7 Th\u1ecb J",
+        "age": 32,
+        "address": "Nam \u0110\u1ecbnh",
+        "job": "Gi\u00e1o vi\u00ean",
+        "nguoi_than": [
+            "b\u1ed1",
+            "m\u1eb9",
+            "em trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Nguy\u1ec5n Th\u1ecb K",
+        "age": 27,
+        "address": "H\u00e0 Giang",
+        "job": "Gi\u00e1o vi\u00ean",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Tr\u1ea7n V\u0103n L",
+        "age": 50,
+        "address": "H\u00e0 Nam",
+        "job": "Gi\u00e1o vi\u00ean",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "L\u00ea Th\u1ecb M",
+        "age": 33,
+        "address": "B\u1eafc Ninh",
+        "job": "B\u00e1c s\u0129",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Ph\u1ea1m V\u0103n N",
+        "age": 28,
+        "address": "B\u1eafc Giang",
+        "job": "B\u00e1c s\u0129",
+        "nguoi_than": [
+            "b\u1ed1",
+            "m\u1eb9",
+            "em g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "\u0110\u1eb7ng Th\u1ecb O",
+        "age": 45,
+        "address": "Qu\u1ea3ng Nam",
+        "job": "B\u00e1c s\u0129",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ho\u00e0ng V\u0103n P",
+        "age": 50,
+        "address": "Qu\u1ea3ng Ng\u00e3i",
+        "job": "B\u00e1c s\u0129",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "V\u0169 Th\u1ecb Q",
+        "age": 36,
+        "address": "B\u1ebfn Tre",
+        "job": "B\u00e1c s\u0129",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ph\u00f9ng V\u0103n R",
+        "age": 40,
+        "address": "T\u00e2y Ninh",
+        "job": "B\u00e1c s\u0129",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "B\u00f9i Th\u1ecb S",
+        "age": 37,
+        "address": "Ti\u1ec1n Giang",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "\u0110\u1ed7 V\u0103n T",
+        "age": 29,
+        "address": "V\u0129nh Long",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "b\u1ed1",
+            "m\u1eb9",
+            "em trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Nguy\u1ec5n Th\u1ecb U",
+        "age": 31,
+        "address": "Long An",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Tr\u1ea7n V\u0103n V",
+        "age": 42,
+        "address": "Ki\u00ean Giang",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "L\u00ea Th\u1ecb W",
+        "age": 34,
+        "address": "\u0110\u1ed3ng Th\u00e1p",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ph\u1ea1m V\u0103n X",
+        "age": 38,
+        "address": "An Giang",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "\u0110\u1eb7ng Th\u1ecb Y",
+        "age": 44,
+        "address": "C\u00e0 Mau",
+        "job": "Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Ho\u00e0ng V\u0103n Z",
+        "age": 41,
+        "address": "S\u00f3c Tr\u0103ng",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "V\u0169 Th\u1ecb AA",
+        "age": 50,
+        "address": "B\u1ea1c Li\u00eau",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ph\u00f9ng V\u0103n BB",
+        "age": 53,
+        "address": "H\u1eadu Giang",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "B\u00f9i Th\u1ecb CC",
+        "age": 48,
+        "address": "Tr\u00e0 Vinh",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "\u0110\u1ed7 V\u0103n DD",
+        "age": 55,
+        "address": "Ninh B\u00ecnh",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "Nguy\u1ec5n Th\u1ecb EE",
+        "age": 47,
+        "address": "Th\u00e1i B\u00ecnh",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Tr\u1ea7n V\u0103n FF",
+        "age": 29,
+        "address": "Thanh H\u00f3a",
+        "job": "Lu\u1eadt s\u01b0",
+        "nguoi_than": [
+            "v\u1ee3",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    },
+    {
+        "name": "L\u00ea Th\u1ecb GG",
+        "age": 31,
+        "address": "Qu\u1ea3ng Tr\u1ecb",
+        "job": "Lu\u1eadt s\u01b0",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con trai",
+            "con g\u00e1i"
+        ],
+        "dang_vien": 0
+    },
+    {
+        "name": "Ph\u1ea1m V\u0103n HH",
+        "age": 34,
+        "address": "H\u00f2a B\u00ecnh",
+        "job": "Doanh nh\u00e2n",
+        "nguoi_than": [
+            "ch\u1ed3ng",
+            "con g\u00e1i",
+            "con trai"
+        ],
+        "dang_vien": 1
+    }
+]
